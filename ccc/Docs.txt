@@ -1,1 +1,4 @@
 Link: https://catcoder.codingcontest.org/
+
+Bakery: 
+https://www.geeksforgeeks.org/power-set/
