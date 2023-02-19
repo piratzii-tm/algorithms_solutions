@@ -1,1 +1,4 @@
 Link: https://open.kattis.com/problems
+
+10 kinds of people:
+- https://www.freecodecamp.org/news/lees-algorithm-explained-with-examples/
