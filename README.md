@@ -24,35 +24,31 @@
 
 ## ***Leetcode***
 
-#### Study Plans:
-###### Dinamic Programming I: 
-- Fibonacci Number
-- N-th Tribonnaci Number 
-- Climbing Stairs
-- Min Cost Climbing Stairs
-- House Robber I
-- House Robber II
-- Delete and earn
-- Jump Game I
-- Jump Game II
-- Maximum Subarray
-- Maximum Product Subarray
-- Maximum Length of Subarray With Positive Product
-- Best Time to Buy and Sell Stock
-- Unique Paths I
-- Unique Paths II
-- Maximum Paths Sum
-
-###### Binary Search I:
-- Binary Seach
-- Guess Number Higher or Lower
-
-#### Other:
+| Problems | Language |
+| - | - |
+| Fibonacci Number | C |
+| N-th Tribonnaci Number | C | 
+| Climbing Stairs | Python |
+| Min Cost Climbing Stairs | Python |
+| Jump Game I | Python |
+| Jump Game II | Python |
+| Maximum Subarray | Python |
+| Maximum Product Subarray | Python |
+| Maximum Length of Subarray With Positive Product | Python |
+| Best Time to Buy and Sell Stock | Python |
+| Unique Paths I | Python |
+| Unique Paths II | Python |
+| Maximum Paths Sum | Python |
+| Binary Seach | Python |
+| Guess Number Higher or Lower | Python |
 
 ---
 
 ## ***Reply***
-- CODE CHALLENGE 2022 - STANDARD EDITION
+
+| Editions | Best Score | Language |
+| - | - | - |
+| Code Challange 2022 | 12.953.959 | Python |
 ---
 
 ## ***CCC***
@@ -60,3 +56,8 @@
 ---
 
 ## ***Kattis***
+
+| Problems | Language |
+| - | - |
+|	10 Kinds of People | Python |
+
