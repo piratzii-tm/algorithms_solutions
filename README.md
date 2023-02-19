@@ -54,6 +54,10 @@
 
 ## ***CCC***
 
+| Problems | Language |
+| - | - |
+| Bakery | Python |
+
 ---
 
 ## ***Kattis***
