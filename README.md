@@ -5,7 +5,7 @@
 
 <!-- If you want to add another language take the link ~ https://img.shields.io/badge/-TEXTHERE-black?style=flat-square&logo=LOGOHERE ~ on another tab and replace TEXTHERE with the text you want to appear beside the logo (maybe the programming language) and replace LOGOHERE with the programming language name (examples below) -->
 
-<div style="flex-direction:"row";flex-wrap:"row">
+<div style="flex-direction:row;flex-wrap:row;">
 
   <!--Python-->
   <img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
@@ -65,4 +65,6 @@
 | Problems | Language |
 | - | - |
 |	10 Kinds of People | Python |
+| A furious cocktail | Python |
+| Words for numbers | Python |
 
