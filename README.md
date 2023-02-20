@@ -40,8 +40,8 @@
 | Unique Paths I | Python |
 | Unique Paths II | Python |
 | Maximum Paths Sum | Python |
-| Binary Seach | Python |
-| Guess Number Higher or Lower | Python |
+| Binary Seach | C |
+| Guess Number Higher or Lower | C |
 
 ---
 
