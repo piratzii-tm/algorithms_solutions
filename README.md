@@ -42,6 +42,8 @@
 | Maximum Paths Sum | Python |
 | Binary Seach | C |
 | Guess Number Higher or Lower | C |
+| Flood Fill | Python |
+| Number of islands | Python |
 
 ---
 
