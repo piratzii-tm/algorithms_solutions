@@ -78,3 +78,6 @@
 | Greatest Common Divisor of Strings | Python |
 | Two Sum | JavaScript |
 | Palindrom Number | JavaScript |
+| Reverse Linked List | Python |
+| Add Two Numbers | Python |
+| Middle of Linked List | Python |
