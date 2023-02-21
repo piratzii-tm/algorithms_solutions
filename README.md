@@ -43,7 +43,9 @@
 | Binary Seach | C |
 | Guess Number Higher or Lower | C |
 | Flood Fill | Python |
-| Number of islands | Python |
+| Number of Islands | Python |
+| Max Area of Island | Python |
+| Number of Closed Islands | Python |
 
 ---
 
