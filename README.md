@@ -54,7 +54,7 @@
 ## ***Leetcode***
 
 | Nr. | Problems | Language |
-| - | - |
+| - | - | - |
 | 1 | Two Sum | JavaScript |
 | 2 | Add Two Numbers | Python |
 | 9 | Palindrom Number | JavaScript |
