@@ -53,31 +53,38 @@
 
 ## ***Leetcode***
 
-| Problems | Language |
+| Nr. | Problems | Language |
 | - | - |
-| Fibonacci Number | C |
-| N-th Tribonnaci Number | C | 
-| Climbing Stairs | Python |
-| Min Cost Climbing Stairs | Python |
-| Jump Game I | Python |
-| Jump Game II | Python |
-| Maximum Subarray | Python |
-| Maximum Product Subarray | Python |
-| Maximum Length of Subarray With Positive Product | Python |
-| Best Time to Buy and Sell Stock | Python |
-| Unique Paths I | Python |
-| Unique Paths II | Python |
-| Maximum Paths Sum | Python |
-| Binary Seach | C |
-| Guess Number Higher or Lower | C |
-| Flood Fill | Python |
-| Number of Islands | Python |
-| Max Area of Island | Python |
-| Number of Closed Islands | Python |
-| Number of Enclaves | Python |
-| Greatest Common Divisor of Strings | Python |
-| Two Sum | JavaScript |
-| Palindrom Number | JavaScript |
-| Reverse Linked List | Python |
-| Add Two Numbers | Python |
-| Middle of Linked List | Python |
+| 1 | Two Sum | JavaScript |
+| 2 | Add Two Numbers | Python |
+| 9 | Palindrom Number | JavaScript |
+| 45 | Jump Game II | Python |
+| 53 | Maximum Subarray | Python |
+| 55 | Jump Game I | Python |
+| 62 | Unique Paths I | Python |
+| 63 | Unique Paths II | Python |
+| 64 | Maximum Paths Sum | Python |
+| 70 | Climbing Stairs | Python |
+| 118 | Pascal's Triangle | Python |
+| 121 | Best Time to Buy and Sell Stock | Python |
+| 152 | Maximum Product Subarray | Python |
+| 198 | House Robber | Python |
+| 200 | Number of Islands | Python |
+| 206 | Reverse Linked List | Python |
+| 213 | House Robber II | Python |
+| 374 | Guess Number Higher or Lower | C |
+| 417 | Pacific Atlantic Water Flow | Python |
+| 509 | Fibonacci Number | C |
+| 695 | Max Area of Island | Python |
+| 704 | Binary Seach | C |
+| 733 | Flood Fill | Python |
+| 740 | Delete and Earn | Python |
+| 746 | Min Cost Climbing Stairs | Python |
+| 876 | Middle of Linked List | Python |
+| 1020 | Number of Enclaves | Python |
+| 1071 | Greatest Common Divisor of Strings | Python |
+| 1137 | N-th Tribonnaci Number | C | 
+| 1162 | As Far from Land as Posible | Python |
+| 1254 | Number of Closed Islands | Python |
+| 1567 | Maximum Length of Subarray With Positive Product | Python |
+| 1905 | Count Sub Islands | Python |
