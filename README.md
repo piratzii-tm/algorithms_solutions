@@ -38,6 +38,8 @@
 | Problems | Language |
 | - | - |
 | Bakery | Python |
+| Auction biding | Python |
+| 36th Classic lv 1,2,3 | Python |
 
 ---
 
