@@ -38,6 +38,8 @@
 | Problems | Language |
 | - | - |
 | Bakery | Python |
+| Auction biding | Python |
+| 36th Classic lv 1,2,3 | Python |
 
 ---
 
@@ -54,7 +56,7 @@
 ## ***Leetcode***
 
 | Nr. | Problems | Language |
-| - | - |
+| - | - | - |
 | 1 | Two Sum | JavaScript |
 | 2 | Add Two Numbers | Python |
 | 9 | Palindrom Number | JavaScript |
