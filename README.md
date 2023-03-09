@@ -26,13 +26,6 @@
 
 ---
 
-## ***Reply***
-
-| Editions | Best Score | Language |
-| - | - | - |
-| Code Challange 2022 | 12.953.959 | Python |
----
-
 ## ***CCC***
 
 | Problems | Language |
