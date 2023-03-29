@@ -64,7 +64,7 @@
 | 121 | Best Time to Buy and Sell Stock | Python |
 | 152 | Maximum Product Subarray | Python |
 | 198 | House Robber | Python |
-| 200 | Number of Islands | Python |
+| 200 | Number of Islands | Python, C |
 | 206 | Reverse Linked List | Python |
 | 213 | House Robber II | Python |
 | 374 | Guess Number Higher or Lower | C |
