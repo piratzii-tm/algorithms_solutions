@@ -1,0 +1,45 @@
+inp = input().split(" ")
+n = int(inp[0])
+m = int(inp[1])
+
+
+
+with open("rez3.txt","w") as f:
+    for i in range(n):
+        inp = input().split(" ")
+        r=int(inp[0][:-1])
+        p=int(inp[1][:-1])
+        s=int(inp[2][:-1])
+        aux=""
+        while r>p and r > 0 and p > 0 and s>1:
+            aux = aux + "SR"
+            r-=1
+            s-=1
+            if r<=p: break
+            aux = aux+"PR"
+            r-=1
+            p-=1
+
+        while r>p and r > 0 and p > 0:
+            aux = aux + "RR"
+            r-=2
+            if r<=p: break
+            aux = aux+"PR"
+            r-=1
+            p-=1
+
+        while r>0 and p>0:
+            aux = aux+"PR"
+            r-=1
+            p-=1
+        while p>s:
+            aux = aux + "PP"
+            p-=2
+        while p>0 and s>0:
+            aux = aux + "PS"
+            s-=1
+            p-=1
+        while s>0:
+            aux = aux + "SS"
+            s-=2
+        f.write(aux+"\n")

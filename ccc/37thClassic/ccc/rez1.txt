@@ -1,0 +1,13 @@
+PR -> P
+SP -> S
+SR -> R
+
+4R 3P 1S
+RP RR RP SP
+P R P S
+PS
+
+
+
+0R 0P 6S
+RR PR RR PR RR PR RR PR RR PR RR PR PR SS SS SS
