@@ -85,4 +85,5 @@
 | 1567 | Maximum Length of Subarray With Positive Product | Python |
 | 1905 | Count Sub Islands | Python |
 | 2090 | K Radius Subarray Averages | Python |
+| 2448 | Minimum Cost to Make Array Equal | Python |
 
