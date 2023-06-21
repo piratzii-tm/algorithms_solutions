@@ -22,7 +22,8 @@
 1. If you made a problem that is not listed here, plese list it (in the README.md).
 2. Every folder have a ***Docs.txt*** and there are links for documentation, if you found something intersting let other know it too by listing it there along with the problem reference.
 3. If you made a problem that is from a website not listed below please make *another folder* and *another section* in the **README.md** file.
-4. ***Try to be organized*** 
+4. Add any solution here in the same manner every solution is posted.
+5. ***Try to be organized*** 
 
 ---
 
