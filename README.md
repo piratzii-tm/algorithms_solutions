@@ -74,6 +74,7 @@
 | 509 | Fibonacci Number | C |
 | 695 | Max Area of Island | Python |
 | 704 | Binary Seach | C |
+| 714 | Best Time to Buy and Sell Stock with Transaction Fee | Python |
 | 733 | Flood Fill | Python |
 | 740 | Delete and Earn | Python |
 | 746 | Min Cost Climbing Stairs | Python |
