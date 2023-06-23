@@ -69,6 +69,7 @@
 | 200 | Number of Islands | Python, C |
 | 206 | Reverse Linked List | Python |
 | 213 | House Robber II | Python |
+| 300 | Longest Increasing Subsequence | Python |
 | 374 | Guess Number Higher or Lower | C |
 | 417 | Pacific Atlantic Water Flow | Python |
 | 509 | Fibonacci Number | C |
@@ -80,6 +81,7 @@
 | 746 | Min Cost Climbing Stairs | Python |
 | 876 | Middle of Linked List | Python |
 | 1020 | Number of Enclaves | Python |
+| 1027 | Longest Arithmetic Subsequence | Python |
 | 1071 | Greatest Common Divisor of Strings | Python |
 | 1137 | N-th Tribonnaci Number | C | 
 | 1162 | As Far from Land as Posible | Python |
