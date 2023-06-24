@@ -91,6 +91,7 @@
 | 1162 | As Far from Land as Posible | Python |
 | 1254 | Number of Closed Islands | Python |
 | 1567 | Maximum Length of Subarray With Positive Product | Python |
+| 1641 | Count Sorted Vowel Strings | Python |
 | 1646 | Get Maximum in Generated Array | Python |
 | 1905 | Count Sub Islands | Python |
 | 2090 | K Radius Subarray Averages | Python |
