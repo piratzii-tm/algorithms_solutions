@@ -62,6 +62,7 @@
 | 63 | Unique Paths II | Python |
 | 64 | Maximum Paths Sum | Python |
 | 70 | Climbing Stairs | Python |
+| 72 | Edit Distance | Python |
 | 118 | Pascal's Triangle | Python |
 | 119 | Pascal's Triangle II | Python |
 | 121 | Best Time to Buy and Sell Stock | Python |
@@ -93,6 +94,7 @@
 | 1567 | Maximum Length of Subarray With Positive Product | Python |
 | 1641 | Count Sorted Vowel Strings | Python |
 | 1646 | Get Maximum in Generated Array | Python |
+| 1732 | Find the Highest Altitude | Python |
 | 1905 | Count Sub Islands | Python |
 | 2090 | K Radius Subarray Averages | Python |
 | 2448 | Minimum Cost to Make Array Equal | Python |
