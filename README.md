@@ -73,6 +73,7 @@
 | 213 | House Robber II | Python |
 | 300 | Longest Increasing Subsequence | Python |
 | 338 | Counting Bits | Python |
+| 373 | Find K Pairs with Smallest Sums | Python |
 | 374 | Guess Number Higher or Lower | C |
 | 392 | Is Subsequence | Python |
 | 417 | Pacific Atlantic Water Flow | Python |
@@ -98,4 +99,5 @@
 | 1905 | Count Sub Islands | Python |
 | 2090 | K Radius Subarray Averages | Python |
 | 2448 | Minimum Cost to Make Array Equal | Python |
+| 2462 | Total Cost to Hire K Workers | Python |
 
