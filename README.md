@@ -50,54 +50,58 @@
 
 ## ***Leetcode***
 
-| Nr. | Problems | Language |
-| - | - | - |
-| 1 | Two Sum | JavaScript |
-| 2 | Add Two Numbers | Python |
-| 9 | Palindrom Number | JavaScript |
-| 45 | Jump Game II | Python |
-| 53 | Maximum Subarray | Python |
-| 55 | Jump Game I | Python |
-| 62 | Unique Paths I | Python |
-| 63 | Unique Paths II | Python |
-| 64 | Maximum Paths Sum | Python |
-| 70 | Climbing Stairs | Python |
-| 72 | Edit Distance | Python |
-| 118 | Pascal's Triangle | Python |
-| 119 | Pascal's Triangle II | Python |
-| 121 | Best Time to Buy and Sell Stock | Python |
-| 152 | Maximum Product Subarray | Python |
-| 198 | House Robber | Python |
-| 200 | Number of Islands | Python, C |
-| 206 | Reverse Linked List | Python |
-| 213 | House Robber II | Python |
-| 300 | Longest Increasing Subsequence | Python |
-| 338 | Counting Bits | Python |
-| 373 | Find K Pairs with Smallest Sums | Python |
-| 374 | Guess Number Higher or Lower | C |
-| 392 | Is Subsequence | Python |
-| 417 | Pacific Atlantic Water Flow | Python |
-| 509 | Fibonacci Number | C |
-| 695 | Max Area of Island | Python |
-| 704 | Binary Seach | C |
+| Nr. | Problem Name                                         | Language |
+|-----|------------------------------------------------------| - |
+| 1   | Two Sum                                              | JavaScript |
+| 2   | Add Two Numbers                                      | Python |
+| 9   | Palindrom Number                                     | JavaScript |
+| 26  | Remove Duplicates from Sorted Array                  | Python |
+| 27  | Remove Element                                       | Python |
+| 45  | Jump Game II                                         | Python |
+| 53  | Maximum Subarray                                     | Python |
+| 55  | Jump Game I                                          | Python |
+| 62  | Unique Paths I                                       | Python |
+| 63  | Unique Paths II                                      | Python |
+| 64  | Maximum Paths Sum                                    | Python |
+| 70  | Climbing Stairs                                      | Python |
+| 72  | Edit Distance                                        | Python |
+| 80| Remove Duplicates from Sorted Array II | Python |
+| 88  | Merge Sorted Array                                   | Python |
+| 118 | Pascal's Triangle                                    | Python |
+| 119 | Pascal's Triangle II                                 | Python |
+| 121 | Best Time to Buy and Sell Stock                      | Python |
+| 152 | Maximum Product Subarray                             | Python |
+| 198 | House Robber                                         | Python |
+| 200 | Number of Islands                                    | Python, C |
+| 206 | Reverse Linked List                                  | Python |
+| 213 | House Robber II                                      | Python |
+| 300 | Longest Increasing Subsequence                       | Python |
+| 338 | Counting Bits                                        | Python |
+| 373 | Find K Pairs with Smallest Sums                      | Python |
+| 374 | Guess Number Higher or Lower                         | C |
+| 392 | Is Subsequence                                       | Python |
+| 417 | Pacific Atlantic Water Flow                          | Python |
+| 509 | Fibonacci Number                                     | C |
+| 695 | Max Area of Island                                   | Python |
+| 704 | Binary Seach                                         | C |
 | 714 | Best Time to Buy and Sell Stock with Transaction Fee | Python |
-| 733 | Flood Fill | Python |
-| 740 | Delete and Earn | Python |
-| 746 | Min Cost Climbing Stairs | Python |
-| 876 | Middle of Linked List | Python |
-| 1020 | Number of Enclaves | Python |
-| 1025 | Divisor Game | Python |
-| 1027 | Longest Arithmetic Subsequence | Python |
-| 1071 | Greatest Common Divisor of Strings | Python |
-| 1137 | N-th Tribonnaci Number | C | 
-| 1162 | As Far from Land as Posible | Python |
-| 1254 | Number of Closed Islands | Python |
-| 1567 | Maximum Length of Subarray With Positive Product | Python |
-| 1641 | Count Sorted Vowel Strings | Python |
-| 1646 | Get Maximum in Generated Array | Python |
-| 1732 | Find the Highest Altitude | Python |
-| 1905 | Count Sub Islands | Python |
-| 2090 | K Radius Subarray Averages | Python |
-| 2448 | Minimum Cost to Make Array Equal | Python |
-| 2462 | Total Cost to Hire K Workers | Python |
+| 733 | Flood Fill                                           | Python |
+| 740 | Delete and Earn                                      | Python |
+| 746 | Min Cost Climbing Stairs                             | Python |
+| 876 | Middle of Linked List                                | Python |
+| 1020 | Number of Enclaves                                   | Python |
+| 1025 | Divisor Game                                         | Python |
+| 1027 | Longest Arithmetic Subsequence                       | Python |
+| 1071 | Greatest Common Divisor of Strings                   | Python |
+| 1137 | N-th Tribonnaci Number                               | C | 
+| 1162 | As Far from Land as Posible                          | Python |
+| 1254 | Number of Closed Islands                             | Python |
+| 1567 | Maximum Length of Subarray With Positive Product     | Python |
+| 1641 | Count Sorted Vowel Strings                           | Python |
+| 1646 | Get Maximum in Generated Array                       | Python |
+| 1732 | Find the Highest Altitude                            | Python |
+| 1905 | Count Sub Islands                                    | Python |
+| 2090 | K Radius Subarray Averages                           | Python |
+| 2448 | Minimum Cost to Make Array Equal                     | Python |
+| 2462 | Total Cost to Hire K Workers                         | Python |
 
