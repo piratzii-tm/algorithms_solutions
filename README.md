@@ -35,6 +35,7 @@
 | Auction biding | Python |
 | 36th Classic lv 1,2,3 | Python |
 | 37th Classic lv 1,2,3 | Python |
+| 38th Classic lv 1,2,3 | Python |
 
 ---
 
